@@ -2,7 +2,7 @@
 
 **Proyecto:** Ecos del Silencio  
 **Género:** Terror Psicológico Táctico / Supervivencia Cooperativa  
-**Plataforma Target:** PC / Consolas  
+**Plataforma Target:** PC / Celular  
 **Clasificación:** ESRB Teen (+13) / PEGI 12  
 **Lead Game Designer:** María Sofía Martín  
 **Fecha:** Septiembre 2026  
